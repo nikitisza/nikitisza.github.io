@@ -1,4 +1,4 @@
-NikiTisza.github.io
+nikitisza.github.io
 ===================
 
 My blog
