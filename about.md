@@ -7,8 +7,8 @@ imagefeature:
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/niki.png" alt="Niki Tisza">
-  <figcaption>This is me</figcaption>
+  <img src="{{ site.url }}/images/" alt="Niki">
+  <figcaption></figcaption>
 </figure>
 
 {% assign total_words = 0 %}
