@@ -6,10 +6,7 @@ tags: [Niki, Tisza, UX Design, UI Design, development, nikitisza]
 imagefeature:
 chart: true
 ---
-<figure>
-  <img src="{{ site.url }}/images/" alt="Niki">
-  <figcaption></figcaption>
-</figure>
+
 
 {% assign total_words = 0 %}
 {% assign total_readtime = 0 %}
