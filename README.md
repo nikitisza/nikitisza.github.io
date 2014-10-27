@@ -1,4 +1,4 @@
 nikitisza.github.io
 ===================
 
-My blog
+Personal blog about UX and stuff

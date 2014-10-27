@@ -1,5 +1,5 @@
 title:            niki.zone
-description:      "Blogging is fun"
+description:      "Because blogging is fun"
 logo:             logo.png
 disqus_shortname: nikizone
 default_bg:
@@ -112,17 +112,17 @@ prose:
           value: personal
           options:
             - name: "Personal"
-              value: personal
-            - name: "Engineering"
-              value: engineering
-            - name: "Physics"
-              value: physics
-            - name: "Psychology"
-              value: psychology
+              value: Personal
+            - name: "UX"
+              value: UX
+            - name: "Food"
+              value: Food
+            - name: "Sport"
+              value: Sport
             - name: "Interesting"
-              value: interesting
-            - name: "Web-Development"
-              value: webdevelopment
+              value: Interesting
+            - name: "Webdevelopment"
+              value: Webdevelopment
           alterable: true
       - name: "tags"
         field:
