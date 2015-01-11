@@ -5,7 +5,7 @@ description: Why to choose Jekyll for your blog
 headline:
 modified: 2015-01-03
 category: Webdevelopment
-tags: [Webdevelopment]
+tags: Webdevelopment
 imagefeature:
 mathjax:
 chart:
