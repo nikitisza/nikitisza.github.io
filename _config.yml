@@ -17,7 +17,7 @@ owner:
   avatar:         niki.png
   email:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Country girl blogging about UX and stuff
+  description:    Animal lover. Curious. Non-judgemental. Open. Positive. Unfinished. Wannabe author.
   # Social networking links used in footer. Update and remove as you like.
   twitter:        nikitisza
   github:         nikitisza
@@ -123,6 +123,10 @@ prose:
               value: Interesting
             - name: "Webdevelopment"
               value: Webdevelopment
+            - name: "UI"
+              value: UI
+            - name: "Design"
+              value: Design
           alterable: true
       - name: "tags"
         field:
