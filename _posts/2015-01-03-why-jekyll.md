@@ -29,3 +29,5 @@ I also wanted to try something completely new that I've never used before, and s
 If you'd like to give it a try just go over to the [Jekyll website](http://jekyllrb.com/) and you can see for yourself. Or if you prefer here is a less geeky [article](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) about it.
 
 **Enjoy!**
+
+[Template credit](http://jekyllthemes.org/themes/hmfaysal-notepad-theme/)
