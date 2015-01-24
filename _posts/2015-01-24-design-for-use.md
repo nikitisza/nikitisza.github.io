@@ -17,6 +17,7 @@ Designing for use provides products which are used immediately with ease and lea
 ###So, what is design?
 
 A dictionary definition of design is as follows:
+
 > Design is: to work out the structure or form of something, as by making a sketch, outline, pattern or plan; to plan and make something artistically or skilfully; to form or conceive in the mind, invent, create; a plan, sketch, or preliminary drawing; a coherent and purposeful pattern, as opposed to chaos; a finished artistic or decorative creation.
 
 It turns out design is the process of creating an artefact with structure or form which is well-planned, artistic, coherent, useful and purposeful. Here is a simple test that you can always try to see how well your project does. For each statement below, **score it between 1 and 7.** 1 is strongly disagree, 7 is strongly agree.
