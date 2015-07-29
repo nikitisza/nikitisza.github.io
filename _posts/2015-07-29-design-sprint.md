@@ -21,12 +21,14 @@ Design sprint is a process for answering business questions through design, prot
 
 #####Product Discovery 
 (this cycle is iterative until we solve the problem we identified)
+
 * define UX (core participants: design, engineering, BA, product owner and other stakeholders if needed)
 * prototyping
 * validation test and learning
 
 #####Implementation Discovery and Delivery 
 (non-iterative cycle)
+
 * visual design
 * interaction design
 
