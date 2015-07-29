@@ -15,17 +15,19 @@ featured: true
 
 I love structures, they give me guide and also flexibility. I believe in structured design process, although I don’t believe there is a perfect design process. Our design process should fit for the project we’re involved in, it needs tailoring for each company (startup or enterprise, small, middle or large team etc.). So here is the structure that I like to follow.
 
-**Design sprint outline**
+#####Design sprint outline
 
 Design sprint is a process for answering business questions through design, prototyping and testing ideas with our users. Just in a few days we’d get through a lot of the core parts of the design process. Also, the days need to have some flexibility depending on the complexity of the problem/feature/idea so the sprint days can overlap. Design sprints usually have two parts in my projects:
 
-**Product Discovery** (this cycle is iterative until we solve the problem we identified)
+#####Product Discovery 
+(this cycle is iterative until we solve the problem we identified)
 
 * define UX (core participants: design, engineering, BA, product owner and other stakeholders if needed)
 * prototyping
 * validation test and learning
 
-**Implementation Discovery and Delivery** (non-iterative cycle)
+#####Implementation Discovery and Delivery 
+(non-iterative cycle)
 
 * visual design
 * interaction design
@@ -61,7 +63,7 @@ Design sprint is a process for answering business questions through design, prot
 <p></p>
 *Implementation Discovery and Delivery takes another 5 days:*
 
-**Visual Design and Interaction Design:**
+#####Visual Design and Interaction Design:
 
 - overlap each other as visual design might take only 1-2 days but the animation is so complex that needs 3-4 days 
 - last day: include preparing hand-over assets for development
