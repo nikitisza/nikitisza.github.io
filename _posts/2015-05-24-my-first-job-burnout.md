@@ -38,3 +38,5 @@ I’ve been blessed to be able to join the IT/design industry so easily - thanks
 
 My advise for you is don’t wait until something goes wrong or until your health begins to suffer to pay attention. Take it seriously and have a break if you can afford it, if not then make adjustments in your life in order to avoid burnout.
 
+Update: comments on [Hacker News](https://news.ycombinator.com/item?id=9603472)
+
