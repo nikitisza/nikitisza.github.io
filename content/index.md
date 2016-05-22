@@ -1,4 +1,5 @@
 ---
+layout: home
 ---
 
 # Home page
@@ -12,3 +13,5 @@
 ```
 code snippet
 ```
+
+Read more [about Niki](/about.html)
