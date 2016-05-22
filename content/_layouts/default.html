@@ -17,5 +17,16 @@
 
 {% javascript main %}
 
+{% if jekyll.environment == 'development' %}
+<script>
+    var livereloadPath = 'http://' + location.hostname + ':35729/livereload.js';
+    var scriptElement = document.createElement('script');
+    var thisScript = document.getElementsByTagName('script')[0];
+    scriptElement.async = 1;
+    scriptElement.src = livereloadPath;
+    thisScript.parentNode.insertBefore(scriptElement, thisScript);
+</script>
+{% endif %}
+
 </body>
 </html>

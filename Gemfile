@@ -14,4 +14,9 @@ gem 'sass'
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'
 
+# Live reload
+gem 'guard'
+gem 'guard-jekyll-plus'
+gem 'guard-livereload'
+gem 'foreman'
 

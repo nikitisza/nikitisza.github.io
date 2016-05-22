@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Home page
+# Home page test
 
 ## Subtitle
 
