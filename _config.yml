@@ -6,3 +6,7 @@ plugins_dir: 'plugins'
 assets:
   sources:
     - content/_assets
+    - content/_assets/images
+
+# blog post URL structure
+permalink:   /:categories/:title
