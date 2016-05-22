@@ -1,2 +1,8 @@
 source: 'content'
 destination: 'build'
+
+plugins_dir: 'plugins'
+
+assets:
+  sources:
+    - content/_assets
